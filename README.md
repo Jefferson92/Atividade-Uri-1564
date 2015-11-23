@@ -1,7 +1,5 @@
 # Atividade-Uri-1564
 
-include <stdio.h>
-include <stdlib.h>
 
 int main()
 {
